@@ -1,6 +1,6 @@
 {
   "name": "node-ask",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Command line keyboard entry using promises",
   "main": "index.js",
   "scripts": {
